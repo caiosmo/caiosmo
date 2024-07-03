@@ -12,3 +12,11 @@ Socials:
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=caiosmo&layout=pie)](https://github.com/anuraghazra/github-readme-stats)
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=caiosmo&show_icons=true&theme=transparent)
+
+## Tecnologias que eu uso no meu dia
+<div style= "display: inline_block"></br>
+<img align= "center" alt="html5" src="https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=spring&logoColor=white"/>
+  </div>
+  <div style= "display: inline_block"></br>
+<img align= "center" alt="html5" src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white"/>
+  </div>
