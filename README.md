@@ -23,3 +23,16 @@ Socials:
 <img align= "center" alt="html5" src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white"/>
 <img align= "center" alt="html5" src="https://img.shields.io/badge/HTML-239120?style=for-the-badge&logo=html5&logoColor=white" />
   </div>
+
+
+<picture>
+  <source
+    srcset="https://github-readme-stats.vercel.app/api?username=caiosmo&show_icons=true&theme=ambient_gradient"
+    media="(prefers-color-scheme: ambient_gradient)"
+  />
+  <source
+    srcset="https://github-readme-stats.vercel.app/api?username=caiosmo&show_icons=true"
+    media="(prefers-color-scheme: ambient_gradient)"
+  />
+  <img height=215 src="https://github-readme-stats.vercel.app/api?username=caiosmo&theme=ambient_gradient&show_icons=true" />
+</picture>
