@@ -21,10 +21,26 @@ Socials:
   />
   <img height=215 src="https://github-readme-stats.vercel.app/api?username=caiosmo&theme=ambient_gradient&show_icons=true" />
 </picture>
-</a
-
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=caiosmo&layout=donut&bg_color=C1C1C1)](https://github.com/anuraghazra/github-readme-stats)
+
+<div style="display: flex; justify-content: space-around;">
+    <picture>
+        <source
+            srcset="https://github-readme-stats.vercel.app/api?username=caiosmo&show_icons=true&theme=ambient_gradient"
+            media="(prefers-color-scheme: ambient_gradient)"
+        />
+        <source
+            srcset="https://github-readme-stats.vercel.app/api?username=caiosmo&show_icons=true"
+            media="(prefers-color-scheme: ambient_gradient)"
+        />
+        <img height=215 src="https://github-readme-stats.vercel.app/api?username=caiosmo&theme=ambient_gradient&show_icons=true" />
+    </picture>
+  
+  
+  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=caiosmo&layout=donut&bg_color=C1C1C1)](https://github.com/anuraghazra/github-readme-stats)
+</div>
+
 
 
 
