@@ -25,7 +25,7 @@ Socials:
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=caiosmo&layout=donut&bg_color=C1C1C1)](https://github.com/anuraghazra/github-readme-stats)
 
 <a href="https://github.com/anuraghazra/github-readme-stats">
-  <img align="center" height=215 src="https://github-readme-stats.vercel.app/api?username=caiosmo&theme=ambient_gradient&show_icons=true" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=caiosmo&theme=ambient_gradient&show_icons=true" />
 </a>
 <a href="https://github.com/anuraghazra/convoychat">
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=caiosmo&layout=donut&bg_color=C1C1C1)](https://github.com/anuraghazra/github-readme-stats" />
