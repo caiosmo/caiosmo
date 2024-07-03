@@ -25,14 +25,3 @@ Socials:
   </div>
 
 
-<picture>
-  <source
-    srcset="https://github-readme-stats.vercel.app/api?username=caiosmo&show_icons=true&theme=ambient_gradient"
-    media="(prefers-color-scheme: ambient_gradient)"
-  />
-  <source
-    srcset="https://github-readme-stats.vercel.app/api?username=caiosmo&show_icons=true"
-    media="(prefers-color-scheme: ambient_gradient)"
-  />
-  <img height=215 src="https://github-readme-stats.vercel.app/api?username=caiosmo&theme=ambient_gradient&show_icons=true" />
-</picture>
