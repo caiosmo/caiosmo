@@ -9,11 +9,25 @@ Socials:
 [![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://x.com/terranfps)
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/caios_mesquita/)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=caiosmo&layout=donut)](https://github.com/caiosmo/github-readme-stats) 
+<picture>
+  <source
+    srcset="https://github-readme-stats.vercel.app/api?username=caiosmo&show_icons=true&theme=dark&title_color=00FF00&text_color=00FF00"
+    media="(prefers-color-scheme: dark)"
+  />
+  <source
+    srcset="https://github-readme-stats.vercel.app/api?username=caiosmo&show_icons=true&title_color=00FF00&text_color=00FF00"
+    media="(prefers-color-scheme: light)"
+  />
+  <img src="https://github-readme-stats.vercel.app/api?username=caiosmo&show_icons=true&title_color=00FF00&text_color=00FF00" />
+</picture>
 
-TESTE
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=caiosmo&show_icons=true&bg_color=00000000)
+
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=caiosmo&layout=donut-vertical)](https://github.com/anuraghazra/github-readme-stats)
+
+
+
 
 ## Tecnologias que eu uso no meu dia
 <div style= "display: inline_block"></br>
