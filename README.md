@@ -11,9 +11,9 @@ Socials:
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=caiosmo&layout=donut)](https://github.com/caiosmo/github-readme-stats) 
 
+TESTE
 
-
-![Caio GitHub stats](https://github-readme-stats.vercel.app/api?username=caiosmo&show_icons=true&theme=transparent)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=caiosmo&show_icons=true&bg_color=00000000)
 
 ## Tecnologias que eu uso no meu dia
 <div style= "display: inline_block"></br>
